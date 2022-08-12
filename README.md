@@ -1,0 +1,4 @@
+- 👋 Olá meu nome é jheniferdezan
+- Sou aluna do Ensino Médio Integral do Col. Est. Guilherme de Almeida.
+- Minha escola esta localizada em Sta. Izabel do Oeste e pertence ao Nucleo Regional de Fran. Beltrão.
+- Participo da disciplina de Pens. Computacional, ou seja, iniciante na Programação.
